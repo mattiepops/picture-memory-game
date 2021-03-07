@@ -1,7 +1,7 @@
 # Memory Game
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
-Play the game here [here]() 
+Play the game here [here](https://mattiepops.github.io/picture-memory-game/) 
 
 Memory Game, also known as the Concentration card game or Matching Game, is a simple card game where you need to match pairs by turn over 2 cards at a time. T
 
